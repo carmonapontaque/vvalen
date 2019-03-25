@@ -1,2 +1,3 @@
-# vvalen
-Van Valen tests for homocedasticity 
+# Van Valen tests for homocedasticity
+
+
